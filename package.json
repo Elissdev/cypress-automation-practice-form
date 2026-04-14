@@ -1,0 +1,25 @@
+{
+  "name": "cypress-automation-practice-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elissdev/cypress-automation-practice-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elissdev/cypress-automation-practice-form/issues"
+  },
+  "homepage": "https://github.com/Elissdev/cypress-automation-practice-form#readme",
+  "devDependencies": {
+    "cypress": "^15.13.1",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "puppeteer": "^19.11.1"
+  }
+}
