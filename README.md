@@ -42,8 +42,8 @@ Bash
 npx cypress run
 
 5. Relatórios e Evidências
-6. 
-Após a execução em modo headless, os resultados são guardados na pasta cypress/reports:
+ 
+6. Após a execução em modo headless, os resultados são guardados na pasta cypress/reports:
 
 HTML: Relatório interativo gerado automaticamente.
 
